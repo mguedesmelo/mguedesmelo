@@ -32,13 +32,11 @@
 </p>
 
 <!--
-**mguedesmelo/mguedesmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mguedesmelo)](https://github.com/mguedesmelo/github-readme-stats)
 
 ##
-  <a href="https://wa.me/5581999491213" alt="WhatsApp" target="_blank">
+  <a href="https://wa.me/558111111111" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5581999491213"/>
   </a>
 
@@ -52,9 +50,6 @@
 
 ##
 ![Snake animation](https://github.com/mguedesmelo/mguedesmelo/blob/output/github-contribution-grid-snake.svg)
-
-##
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=mguedesmelo&hide=html&layout=compact&theme=default)](https://github.com/mguedesmelo/github-readme-stats)
 
 😉
 Here are some ideas to get you started:
