@@ -1,4 +1,4 @@
-### Especialista técnico com mais de 20 anos de experiência em PHP, Java, Python, Arquitetura de Microserviços, Spring Boot, Angular, Xamarin, Flutter, Oracle, SQL Server, PostgreSQL, MySQL e por ai vai! 😉
+### Especialista técnico com mais de 20 anos de experiência em PHP, Java, Python, Arquitetura de Microserviços, Spring Boot, Angular, Xamarin, Flutter, Oracle, SQL Server, PostgreSQL e MySQL!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="mguedesmelo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -56,7 +56,7 @@
 ##
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=mguedesmelo&hide=html&layout=compact&theme=default)](https://github.com/mguedesmelo/github-readme-stats)
 
-
+😉
 Here are some ideas to get you started:
 👋
 - 🔭 I’m currently working on ...
